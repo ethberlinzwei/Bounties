@@ -16,14 +16,14 @@ How does a hacker qualify for this bounty, and what do they have to do?
 
 ## Resources
 
-In this case, link to your file in the [knowledge base resources directory](/resources).
+In this case, link to your file in the [knowledge base resources directory](https://github.com/ethberlinzwei/KnowledgeBase/resources).
 
 ## Judging Criteria
 
-1.
-2.
+1\.
+2\.
 
 ## Prizes
 
-1.
-2.
+1\.
+2\.
