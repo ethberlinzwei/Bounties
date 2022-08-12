@@ -1,9 +1,8 @@
 ---
-name: Bounty template
-about: Use this template to create a new bounty for the ETHBerlin Zwei hackathon
-title: '[BOUNTY] Project name - task'
-labels: bounty
-assignees: ''
+name: Sponsor Bounty Template
+about: Use this template to create a new bounty for the ETHBerlin³ hackathon.
+title: "[BOUNTY] Project - Task"
+labels: sponsor-bounty
 ---
 
 # A title to grab a hackers attention
@@ -16,7 +15,7 @@ How does a hacker qualify for this bounty, and what do they have to do?
 
 ## Resources
 
-In this case, link to your file in the [knowledge base resources directory](https://github.com/ethberlinzwei/KnowledgeBase/resources).
+In any case, link to your documentation or other relevant resources
 
 ## Judging Criteria
 
